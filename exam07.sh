@@ -9,6 +9,11 @@ exit
 fi
 
 
+if [ ! -f /var/log/messages ];then
+echo "文件不存在"
+exit
+fi
+
 function clear_log
 {
 tail -1000 /var/log/messages > /var/log/message1000
