@@ -1386,5 +1386,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/"
+    "pickerWorkingDir": "/",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///sh_practice",
+            "backupPath": "/sh_practice/Backups/3bf38d26f856201e1c3538efc6dcb139",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 65,
+                "width": 800,
+                "height": 501
+            }
+        },
+        "openedWindows": []
+    }
 }
