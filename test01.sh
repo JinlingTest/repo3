@@ -4,8 +4,8 @@
 #read -p "Please input a Number: " V1
 read -p "Please input you name: " V1
 
-if [ ${V1} == "root" ];then
-echo "你是管理员"
+if [ -z "${V1}" ];then
+echo "你没有输入任何信息"
 else
-echo "你是普通用户"
+echo "你输入的是 ${V1}"
 fi
