@@ -1,2 +1,0 @@
-[2019-08-06 16:37:00.038] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/sh_practice/.vscode'
-[2019-08-06 16:37:00.038] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/sh_practice/.vscode'
